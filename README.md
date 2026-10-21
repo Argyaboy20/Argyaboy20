@@ -13,6 +13,10 @@
 - 👨🏼‍💼 Administration Enthusiast
 - 📫 Let's talk — links below 👇
 
+## 🎯 Currently
+
+![Learning](https://img.shields.io/badge/Learning-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Building](https://img.shields.io/badge/Building-Vue.js_App-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Open to](https://img.shields.io/badge/Open_to-Collaboration-3fb950?style=for-the-badge)
+
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1050237808213774418)
@@ -61,16 +65,14 @@ Consecutive days with at least one push. Miss a day → back to zero.
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Argyaboy20&theme=dark&hide_border=false" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Argyaboy20&theme=dark" alt="Contribution streak" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Metrics
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Argyaboy20&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🔝 Top Contributed Repo
-
-![Top repos](https://github-contributor-stats.vercel.app/api?username=Argyaboy20&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Argyaboy20/Argyaboy20/metrics/github-metrics.svg" alt="GitHub metrics" />
+</p>
 
 ## ✍️ Random Dev Quote
 
