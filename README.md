@@ -81,5 +81,5 @@ Consecutive days with at least one push. Miss a day → back to zero.
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Argyaboy20&icon=0&color=0" alt="Visitor count" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Argyaboy20&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
