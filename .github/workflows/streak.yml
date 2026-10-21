@@ -1,0 +1,36 @@
+name: Update push streak
+
+on:
+  schedule:
+    - cron: "0 */3 * * *" # every 3 hours
+  workflow_dispatch:
+
+jobs:
+  streak:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: load previous state from streak branch
+        run: |
+          mkdir -p dist
+          git fetch origin streak --depth=1 && git show FETCH_HEAD:streak.json > dist/streak.json || rm -f dist/streak.json
+
+      - name: calculate streak
+        run: node .github/scripts/streak.js
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TZ_NAME: Asia/Makassar
+
+      - name: push to streak branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: streak
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
