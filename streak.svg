@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="150" viewBox="0 0 495 150" font-family="Segoe UI, Ubuntu, sans-serif">
+  <rect x="0.5" y="0.5" width="494" height="149" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="247.5" y="30" text-anchor="middle" font-size="14" font-weight="600" fill="#58a6ff">PUSH STREAK · @Argyaboy20</text>
+  <line x1="247.5" y1="45" x2="247.5" y2="105" stroke="#30363d"/>
+  <text x="123.75" y="80" text-anchor="middle" font-size="42" font-weight="700" fill="#f0883e">3</text>
+  <text x="123.75" y="100" text-anchor="middle" font-size="12" fill="#8b949e">Current streak (days)</text>
+  <text x="371.25" y="80" text-anchor="middle" font-size="42" font-weight="700" fill="#3fb950">3</text>
+  <text x="371.25" y="100" text-anchor="middle" font-size="12" fill="#8b949e">Longest streak (days)</text>
+  <text x="247.5" y="132" text-anchor="middle" font-size="12" fill="#3fb950">Pushed today ✓</text>
+</svg>
