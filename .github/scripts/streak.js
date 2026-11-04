@@ -64,6 +64,7 @@ async function getCalendar() {
   <text x="371.25" y="80" text-anchor="middle" font-size="42" font-weight="700" fill="#3fb950">${longest}</text>
   <text x="371.25" y="100" text-anchor="middle" font-size="12" fill="#8b949e">Longest streak (days)</text>
   <text x="247.5" y="132" text-anchor="middle" font-size="12" fill="${doneToday ? "#3fb950" : "#d29922"}">${status}</text>
+  <text x="247.5" y="145" text-anchor="middle" font-size="9" fill="#6e7681">updated ${new Date().toISOString().slice(0, 16).replace("T", " ")} UTC</text>
 </svg>`;
   fs.writeFileSync("dist/streak.svg", svg);
   console.log({ today, doneToday, current, longest });

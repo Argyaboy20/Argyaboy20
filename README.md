@@ -50,7 +50,7 @@
 Consecutive days with at least one contribution (same data as the green squares on my profile). Miss a day → back to zero.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Argyaboy20/Argyaboy20/streak/streak.svg" alt="Push streak" />
+  <img src="https://raw.githubusercontent.com/Argyaboy20/Argyaboy20/streak/streak.svg?v=2" alt="Push streak" />
 </p>
 
 ## 🐍 Contribution Snake
