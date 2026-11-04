@@ -24,8 +24,7 @@ jobs:
         run: node .github/scripts/streak.js
         env:
           GH_USER: ${{ github.repository_owner }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TZ_NAME: Asia/Makassar
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
       - name: push to streak branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

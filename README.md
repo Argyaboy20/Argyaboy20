@@ -47,7 +47,7 @@
 
 ## 🔥 Push Streak
 
-Consecutive days with at least one push. Miss a day → back to zero.
+Consecutive days with at least one contribution (same data as the green squares on my profile). Miss a day → back to zero.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Argyaboy20/Argyaboy20/streak/streak.svg" alt="Push streak" />
@@ -56,17 +56,6 @@ Consecutive days with at least one push. Miss a day → back to zero.
 ## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Argyaboy20/Argyaboy20/output/snake.svg" alt="Snake animation" />
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Argyaboy20&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argyaboy20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Argyaboy20&theme=dark" alt="Contribution streak" />
-</p>
 
 ## 📈 GitHub Metrics
 
