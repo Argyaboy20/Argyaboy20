@@ -60,7 +60,7 @@ Consecutive days with at least one contribution (same data as the green squares 
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Argyaboy20/Argyaboy20/metrics/metrics-extra.svg" alt="Coding habits and achievements" />
+  <img src="https://raw.githubusercontent.com/Argyaboy20/Argyaboy20/metrics/github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 ## ✍️ Random Dev Quote
