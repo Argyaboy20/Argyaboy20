@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maulana Farras 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3880FF&center=true&vCenter=true&width=520&lines=Fullstack+Engineer;Administration+Enthusiast;Vue.js+%7C+Ionic+%7C+AdonisJs;Turning+ideas+into+working+apps" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3880FF&center=true&vCenter=true&width=520&lines=Fullstack+Engineer;Administration+Enthusiast;Vue.js+%7C+Flutter+%7C+Next.js;Turning+ideas+into+working+apps" alt="Typing animation" />
 </p>
 
 ---
