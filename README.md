@@ -8,10 +8,10 @@
 
 ## 💫 About Me
 
-- 👋 Call me **Farras** or **Ras** — whichever you prefer!
-- 👨🏼‍💻 Fullstack Engineer
+- 👋 Call me **Farras** or **Ras** - whichever you prefer!
+- 👨🏼‍💻 Fullstack Engineer | Mobile Developer
 - 👨🏼‍💼 Administration Enthusiast
-- 📫 Let's talk — links below 👇
+- 📫 Let's talk - links below 👇
 
 ## 🎯 Currently
 
